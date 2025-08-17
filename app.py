@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello from Tech VJ'
+    return 'Hello from adnanxpkd'
 
 @app.route('/redirect')
 def redirect_page():
